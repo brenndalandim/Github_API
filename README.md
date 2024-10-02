@@ -1,3 +1,6 @@
+#Objetivo
+Criar uma aplicação web utilizando react e consumindo a API do Github que retorna os repositórios a partir de parte do seu link
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
